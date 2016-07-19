@@ -1,0 +1,6 @@
+[submodule "auth-user"]
+	path = auth-user
+	url = git@github.com:krico/auth-user.git
+[submodule "trocado"]
+	path = trocado
+	url = git@github.com:krico/trocado.git
