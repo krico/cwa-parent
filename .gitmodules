@@ -4,3 +4,6 @@
 [submodule "trocado"]
 	path = trocado
 	url = git@github.com:krico/trocado.git
+[submodule "trocado-web"]
+	path = trocado-web
+	url = git@github.com:krico/trocado-web.git

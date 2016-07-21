@@ -9,5 +9,6 @@
     <modules>
         <module>auth-user</module>
         <module>trocado</module>
+        <module>trocado-web</module>
     </modules>
 </project>
